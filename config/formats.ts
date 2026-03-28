@@ -19,6 +19,9 @@ The column value will be ignored for repeat sections.
 
 // Associate each prism passive with the pokemon
 const PRISMS: {[speciesId: string]: string} = {
+	bulbasaur: 'sunbath',
+	ivysaur: 'sunbath',
+	venusaur: 'sunbath',
 	charmander: 'draconic',
 	charmeleon: 'draconic',
 	charizard: 'draconic',
